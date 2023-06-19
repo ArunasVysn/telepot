@@ -1,6 +1,6 @@
-# telepot - Python framework for Telegram Bot API
+# telepot - Copy of Python framework for Telegram Bot API
 
-## I am no longer maintaining this library. Thanks for considering telepot.
+Fixed issues of original library.
 
 ### [Introduction »](http://telepot.readthedocs.io/en/latest/)
 ### [Reference »](http://telepot.readthedocs.io/en/latest/reference.html)
